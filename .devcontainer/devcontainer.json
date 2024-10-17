@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "ghcr.io/devcontainers-contrib/features/zig@sha256:c4fd8de20b0ee9f7317ea69c0240f2266d5d1f068f2de1b26e8a25362a387abe": "latest"
+    "ghcr.io/devcontainers-contrib/features/zig@sha256:c4fd8de20b0ee9f7317ea69c0240f2266d5d1f068f2de1b26e8a25362a387abe": "0.13.0"
   }
 }
