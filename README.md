@@ -27,7 +27,18 @@ At the bottom of the page is the terminal. This is where you will run and test y
 More details on how to do that are covered in the lessons themselves.
 
 An example of the terminal:
+
 ![An image showing an example of the terminal section of GitHub codespaces](/images/terminal-example.png)
+
+### Navigation
+On the left hand side of the codespace is the explorer. This is where you will see the folder
+structure of the repository. You can open each folder to see each of the lessons contained within
+the module. You can then click on the file that represents a lesson to open it in the editor. There
+will be comments in the lesson teaching you about Zig and what to do during the lesson. 
+
+An example of the explorer:
+
+![An image showing an example of the explorer section of GitHub codespaces](/images/navigation-example.png)
 
 ## Issues
 Should you have an issue with the repository and need help you can navigate to the "Issues" tab at the
