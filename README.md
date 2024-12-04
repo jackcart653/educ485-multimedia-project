@@ -9,3 +9,5 @@ navigating through different files, and running our code from the terminal.
 ### Start codespaces
 To start a new codespace clikc the green "<> Code" button in the top right and then
 click the "+" under the codespaces tab.
+
+![Start a new codespace](/images/create-codespace.png)
