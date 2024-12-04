@@ -27,7 +27,7 @@ const expect = std.testing.expect;
 // Write your function here:
 
 
-test "variable x" {
+test "return x" {
     try expect(return_x(1) == 1);
     try expect(return_x(5) == 5);
     try expect(return_x(20) == 20);

@@ -28,7 +28,7 @@ fn less_than_5(x: isize) isize {
     return result;
 }
 
-test "variable x" {
+test "less than 5" {
     try expect(less_than_5(1) == 1);
     try expect(less_than_5(3) == 1);
     try expect(less_than_5(5) == 0);
